@@ -1,0 +1,11 @@
+configparser
+scanpy~=1.10.1
+adjustText~=1.1.1
+matplotlib~=3.8.4
+networkx~=3.3
+scikit-learn~=1.4.2
+scipy~=1.13.0
+seaborn~=0.13.2
+statsmodels~=0.14.2
+pandas~=2.2.2
+numpy~=1.26.4
