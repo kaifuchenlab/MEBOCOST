@@ -2,7 +2,7 @@
 
 ## Welcome to use MEBOCOST: <I>Me</I>ta<I>bo</I>lic Cell-Cell <I>Co</I>mmunication Modeling by <I>S</I>ingle Cell <I>T</I>ranscriptome
 
-<span style="color:blue"> Our manuscript has been accepted by Nucleic Acids Research! Stay tuned to read our new paper. </span>
+### Our manuscript has been accepted by Nucleic Acids Research! Stay tuned to read our new paper.
 ### What is MEBOCOST and how does it work?
 
 <p>
