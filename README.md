@@ -2,7 +2,8 @@
 
 ## Welcome to use MEBOCOST: <I>Me</I>ta<I>bo</I>lic Cell-Cell <I>Co</I>mmunication Modeling by <I>S</I>ingle Cell <I>T</I>ranscriptome
 
-### Our manuscript has been accepted by Nucleic Acids Research! Stay tuned to read our new paper.
+### Our manuscript has been online at <a href='https://doi.org/10.1093/nar/gkaf569' target='_blank'>Nucleic Acids Research </a>
+
 ### What is MEBOCOST and how does it work?
 
 <p>
@@ -97,12 +98,10 @@ python -m pip install .
 
 </li>
 
-### Cite us
+### Please cite us if you find MEBOCOST is useful to your project.
 
 <p>
-
-Please cite us at <a href='https://www.biorxiv.org/content/10.1101/2022.05.30.494067v1' target='_blank'>bioRxiv</a> if you find MEBOCOST is useful to your project.
-
+Please cite us at <a href='https://doi.org/10.1093/nar/gkaf569' target='_blank'>NAR</a> 
 </p>
 
 ### Contact
