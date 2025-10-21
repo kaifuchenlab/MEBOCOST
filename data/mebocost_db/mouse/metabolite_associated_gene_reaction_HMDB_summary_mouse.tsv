@@ -6641,3 +6641,8 @@ trans-2-Hexenoyl-CoA	HMDB0003944	(S)-Hydroxyhexanoyl-CoA → trans-2-Hexenoyl-Co
 trans-2-Hexenoyl-CoA	HMDB0003944	Hexanoyl-CoA + FAD → trans-2-Hexenoyl-CoA + FADH	Acadl[Unknown]; Acads[Unknown]; Acadm[Unknown]; Acox1[Unknown]; Acox3[Unknown]; Acadsb[Unknown]	product
 trans-2-Hexenoyl-CoA	HMDB0003944	trans-2-Hexenoyl-CoA + NADPH + Hydrogen Ion → Hexanoyl-CoA + NADP	Mecr[Unknown]	substrate
 trans-Octadec-2-enoyl-CoA	HMDB0006529	trans-Octadec-2-enoyl-CoA + NADPH + Hydrogen Ion → Stearoyl-CoA + NADP	Pecr[Enzyme]	substrate
+3-Hydroxybutyric acid	HMDB0000011	3-Hydroxy-3-methylglutaryl-CoA → 3-Hydroxybutyric acid	Hmgcs2[Enzyme]	product
+3-Hydroxybutyric acid	HMDB0000011	Acetyl-CoA  + Acetoacetyl-CoA → 3-Hydroxybutyric acid	Hmgcs2[Enzyme]; Acat1[Enzyme]	product
+3-Hydroxybutyric acid	HMDB0000011	Acetoacetic acid +  NADH → 3-Hydroxybutyric acid + NAD	Bdh1[Enzyme]; Bdh2[Enzyme]	product
+Acetoacetic acid	HMDB0000060	3-Hydroxy-3-methylglutaryl-CoA → Acetoacetic acid	Hmgcs2[Enzyme]	product
+Acetoacetic acid	HMDB0000060	Acetyl-CoA  + Acetoacetyl-CoA → Acetoacetic acid	Hmgcs2[Enzyme]; Acat1[Enzyme]	product

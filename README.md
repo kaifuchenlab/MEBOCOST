@@ -32,6 +32,7 @@ workflow for predicting metabolite mediated cell-cell communication (mCCC) takin
 <p>Changelog for v1.2</p>
 
 <p>For v1.2.2</p>
+<li>(10-21-2025) Update enzymes and sensors for metabolites: Acetoacetic acid, Acetic acid, and 3-Hydroxybutyric acid, from user's suggestions. Thanks!.</li>
 <li>(09-03-2025) Fixed a small bug for sensor type filtering.</li>
 <li>(08-15-2025) Adjust pseudo value adding in logFC calculation to avoid potential errors.</li>
 <li>(08-12-2025) Fixed bugs for condition naming issue and differential mCCC plotting issues.</li>
