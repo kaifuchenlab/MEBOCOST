@@ -790,5 +790,5 @@ ID	HMDB_ID	standard_metName	metName	Gene_name	Protein_name	Evidence	Annotation
 789	HMDB0000011	3-Hydroxybutyric acid	3-Hydroxybutyric acid	SLC16A6	Monocarboxylate transporter 7	32144120; 22302940; 38132294	Transporter
 790	HMDB0000060	Acetoacetic acid	Acetoacetate	FFAR2	Free fatty acid receptor 2	31685604; https://en.wikipedia.org/wiki/Free_fatty_acid_receptor_2	Receptor
 791	HMDB0000042	Acetic acid	Acetate	FFAR2	Free fatty acid receptor 2	31337751; 34845033; 32997697	Receptor
-792	HMDB0000011	3-Hydroxybutyric acid	3-Hydroxybutyric acid	HCAR2	Hydroxycarboxylic acid receptor 2		31685604; 35649469	Receptor
+792	HMDB0000011	3-Hydroxybutyric acid	3-Hydroxybutyric acid	HCAR2	Hydroxycarboxylic acid receptor 2	31685604; 35649469	Receptor
 793	HMDB0000011	3-Hydroxybutyric acid	3-Hydroxybutyric acid	FFAR3	Free fatty acid receptor 3	31685604; 21518883	Receptor
